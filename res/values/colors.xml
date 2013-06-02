@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="brown">#7A312C</color>
+    <color name="black">#000000</color>
+    <color name="blue">#00f</color>
+    <color name="red">#f00</color>
+    <color name="lightblue">#4C55FC</color>
+    <color name="dodgerblue">#1E90FF</color>
+    <color name="darkcyan">#008B8B</color>
+    <color name="darkgrey">#383637</color>
+    <color name="white">#fff</color>
+    <color name="gray">#666666</color>
+    <color name="lightgray">#EBECFF</color>
+    <color name="mediumgray">#B3B3B3</color>
+    <color name="lightorange">#dc8500</color>
+    <color name="medlightgray">#999999</color>
+    <color name="holoTextColorReplacement">#888888</color>
+    <color name="textColorHint">#AAAAAA</color>
+    <color name="holoBackground">#222222</color>
+    <color name="depressedBrownButton">#441e1c</color>
+    <color name="lightred">#FCC5C5</color>
+    <color name="green">#00ff00</color>
+    <color name="grayTitle">#333333</color>
+    <color name="grayDetail">#7c7c7c</color>
+    <color name="grayDividerLine">#CCCCCC</color>
+    <color name="shadowColor">#FFFFFF</color>
+    <color name="lightGrayEventListBG">#E9E9E9</color>
+    <color name="partialBlack">#31000000</color>
+    <color name="partialWhite">#40FFFFFF</color>
+    <color name="cloudlessDay">#32BBDF</color>
+    <color name="purpleElderberry">#3E3741</color>
+    <color name="yellowGerbera">#F2E8B2</color>
+    <color name="tilledSoil">#60534B</color>
+    
+
+</resources>

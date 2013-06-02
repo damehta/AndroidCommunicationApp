@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Communication App</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="placeCall">Place Call</string>
+    <string name="contactName">Contact Name</string>
+    <string name="phoneType">Phone Type</string>
+    <string name="phoneNo">Phone No</string>
+    <string name="selectContact">Select Contact</string>
+    <string name="descBtnSpeaker">Speaker</string>
+
+</resources>
